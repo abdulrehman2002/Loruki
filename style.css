@@ -465,9 +465,6 @@ li{
     }
 }
 @media(max-width: 320px){
-    body{
-        position: fixed;
-    }
     .logo {
         padding: 15px 105px;
     }
